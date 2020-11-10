@@ -26,8 +26,12 @@ if (isset($_POST['submit'])) {
 <input type="text" name="subject">
 <h3>Votre message</h3>
 <textarea name="message"></textarea>
-<div class="g-recaptcha" data-sitekey="6Lfb9uAZAAAAAH2cBvNXQaVy1nhJ0xsfAZAsjxcd"></div>
-<button type="submit" name="submit">Envoyer</button>
+<!-- <div class="g-recaptcha" data-sitekey="6Lfb9uAZAAAAAH2cBvNXQaVy1nhJ0xsfAZAsjxcd"></div>
+<button type="submit" name="submit">Envoyer</button> -->
+<button class="g-recaptcha" 
+        data-sitekey="reCAPTCHA_site_key" 
+        data-callback='onSubmit' 
+        data-action='submit'>Envoyer</button>
 </form>
 
 </div>
