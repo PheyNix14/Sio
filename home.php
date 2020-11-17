@@ -5,11 +5,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" >
 		<script src="https://www.google.com/recaptcha/api.js"></script>
-		<script>
-   function onSubmit(6LdOO-EZAAAAACTGZ-OFXzmymQ_nsxDJrNEMLZ97) {
-     document.getElementById("demo-form").submit();
-   }
- </script>
 		<link
 			href="https://fonts.googleapis.com/css?family=Poppins:400,500&display=swap"
 			rel="stylesheet"
