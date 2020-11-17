@@ -33,13 +33,13 @@ footer {
 
 .logo-container {
   flex: 1;
+  margin-left: 20px;
 }
 .logo {
   font-weight: 400;
   margin: 5px;
   color: #5f5f79;
   text-decoration: none;
-  margin-left: 20px;
 }
 
 .logo a {
