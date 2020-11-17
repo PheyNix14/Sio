@@ -27,7 +27,7 @@ if (isset($_POST['submit'])) {
 <h3>Votre message</h3>
 <textarea name="message"></textarea>
 <button class="g-recaptcha" 
-        data-sitekey="6Lf69OAZAAAAAN2N6b2mD13Cj7COtsViu0UhDpjq" 
+        data-sitekey="6Lf69OAZAAAAAPYF_0uhwM2xQe8ZnoxppMLVKBhF" 
         data-callback='onSubmit' 
         data-action='submit'>Envoyer</button>
 </form>
