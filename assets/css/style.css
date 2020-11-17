@@ -23,6 +23,9 @@ footer {
   text-decoration: none;
   text-align: center;
 }
+a:visited{
+  color: #5f5f79;
+}
 
 .logo-container,
 .nav-links {
