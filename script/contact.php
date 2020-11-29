@@ -19,14 +19,15 @@
     <h1>Contact:</h1>
 
     <form class="contact-form" action="#formulaire" method="post" required id='formulaire'>
-        <h3>Votre nom*</h3>
+        <h3>Votre nom:*</h3>
         <input type="text" name="name" id="name" required>
-        <h3>Votre e-mail*</h3>
+        <h3>Votre e-mail:*</h3>
         <input type="text" name="mail" id="mail" required>
-        <h3>Objet*</h3>
+        <h3>Objet:*</h3>
         <input type="text" name="subject" required>
-        <h3>Votre message*</h3>
+        <h3>Votre message:*</h3>
         <textarea name="message"></textarea>
+        <br>
         <button class="g-recaptcha" data-sitekey="6Lf69OAZAAAAAPYF_0uhwM2xQe8ZnoxppMLVKBhF" data-callback='onSubmit' data-action='submit'>Envoyer</button>
     </form>
 
