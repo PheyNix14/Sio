@@ -9,15 +9,15 @@
 <body>
     <div class="container">
     <?php 
-        include("header.php");
-        include("socialmediabar.php");
-        include("home.php");
-        include("about.php");
-        include("competence.php");
-        include("experience.php");
-        include("formation.php");
-        include("contact.php");
-        include("footer.php");
+        include("script/header.php");
+        include("script/socialmediabar.php");
+        include("script/home.php");
+        include("script/about.php");
+        include("script/competence.php");
+        include("script/experience.php");
+        include("script/formation.php");
+        include("script/contact.php");
+        include("script/footer.php");
     ?>
     </div>
 </body>
