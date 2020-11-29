@@ -1,7 +1,7 @@
 <header>
 			<div class="logo-container">
 				<img src="assets/img/logo.svg" alt="logo">
-				<h4 class="logo"> <a href="#">Léo-Hacquard </h4>
+				<h4 class="logo"> <a href="#">Léo-Hacquard </a> </h4>
 			</div>
 			<nav>
 				<ul class="nav-links">
