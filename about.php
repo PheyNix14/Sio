@@ -8,12 +8,12 @@
 
 </style>
 <p class="alinea">Je m'appelle Léo, 18 ans vivant à Caen je suis aujourd'hui <br>
-        une fomation Sio en vue d'acquérir de nouvelle compétence. <br> 
-        Depuis plus de 10 ans, je suis passionné par l'informatique et tous ce qui s'en rapproche. <br>
-        Je suis sportif et je pratique régulièrement le tennis ainsi que l'escalade. <br>
-        Pratiquant la photographie depuis maintenant 4 ans, j'ai eu l'occasion de travailler <br> indépendament pour des entreprises privés
-        ainsi que pour des particuliers. <br>
-        Joueur compétitif à mes heures perdu, j'aime la compétition et le travail d'équipes.</p>
+une formation Sio en vue d'acquérir de nouvelles compétences. <br>
+Depuis plus de 10 ans, je suis passionné par l'informatique et tout ce qui s'en rapproche. <br>
+Je suis sportif et je pratique régulièrement le tennis ainsi que l'escalade. <br>
+Pratiquant la photographie depuis maintenant quatres ans, j'ai eu l'occasion de travailler <br>
+indépendamment pour des entreprises privées ainsi que pour des particuliers. <br>
+Joueur compétitif à mes heures perdus, j'aime la compétition et le travail d'équipes.</p>
 <br>
 <br>
 <div class='image_profil' >
